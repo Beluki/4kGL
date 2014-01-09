@@ -1,0 +1,28 @@
+
+CHANGELOG
+
+* 2013/12/02:
+
+    - Do not handle ESC to quit.
+
+* 2013/09/25:
+
+    - Set warnings to the highest level on both MSVC and MinGW.
+
+    - Include build scripts for MinGW32 and MinGW64.
+
+    - Do robust error handling and properly release resources.
+      Not doing it only saves about 150 bytes.
+
+    - Always call ExitProcess() ourselves.
+
+* 2013/07/08:
+
+    - Use adaptive sleeping.
+
+    - Fixed GAME_STEP. Default to 13 (about 75 FPS).
+
+* 2013/07/04:
+
+    - First version.
+
