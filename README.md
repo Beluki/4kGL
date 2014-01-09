@@ -8,6 +8,9 @@ but it's easy to extend.
 
 Using [Crinkler][] it compiles to a 1kb executable.
 
+See also [4kGL-Example][] for a simple demo and [4k][] for the same thing
+using GDI instead of OpenGL.
+
 ### Compiling
 
 There are batch files the [Source][] folder that compile the project
@@ -33,7 +36,7 @@ than maintenance.
 Like all my hobby projects, this is Free Software. See the [Documentation][]
 folder for more information. No warranty though.
 
-
+[4kGL-Example]: https://github.com/Beluki/4kGL-Example
 [4k]: https://github.com/Beluki/4k
 
 [Crinkler]: http://www.crinkler.net
