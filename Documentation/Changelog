@@ -1,6 +1,12 @@
 
 CHANGELOG
 
+* 2014/08/22:
+
+    - Tested on Clang (LLVM SVN r215932).
+
+    - Added -Wmissing-declarations.
+
 * 2014/07/21:
 
     - Revised. Working on MinGW 4.9.0 and MSVC 2014 CTP.

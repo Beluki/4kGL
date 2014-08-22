@@ -15,8 +15,11 @@ using GDI instead of OpenGL.
 
 There are batch files the [Source][] folder that compile the project
 using MSVC (with the default linker or [Crinkler][]) and MinGW. It has been
-tested using MSVC 2010/2012 and MinGW 4.8.1+ on Windows 7 and 8
+tested using MSVC 2010/2012/2013/2014 CTP and MinGW 4.8.1+ on Windows 7 and 8
 (both x86 and x86-64).
+
+It's also possible to build it using other compilers, such as Clang (LLVM 3.6+)
+or to cross-compile (e.g. from Debian using MinGW), but this is not supported.
 
 ## Alternatives
 
