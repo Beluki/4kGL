@@ -1,6 +1,10 @@
 
 CHANGELOG
 
+* 2016/02/02:
+
+    - Revised. Working on latest MinGW 5.3.0.
+
 * 2014/08/22:
 
     - Tested on Clang (LLVM SVN r215932).

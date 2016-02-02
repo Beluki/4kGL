@@ -46,6 +46,6 @@ folder for more information. No warranty though.
 [Crinkler]: http://www.crinkler.net
 [Iñigo Quilez]: http://www.iquilezles.org/www/material/isystem1k4k/isystem1k4k.htm
 
-[Documentation]: https://github.com/Beluki/4kGL/tree/master/Documentation
-[Source]: https://github.com/Beluki/4kGL/tree/master/Source
+[Documentation]: Documentation
+[Source]: Source
 
